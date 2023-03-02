@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  
+      background-image: url("https://media.istockphoto.com/id/1353027787/photo/question-marks-background.jpg?b=1&s=170667a&w=0&k=20&c=STEhwu50hiawQuKSbGg-Un9rq11GhtnLZ-NCX_57lYs=");
+      text-align: center
+  }
+  
+  #questionbox{
+      border: 5px solid lavenderblush;    
+      border-color: lavenderblush;
+      background-color: lightgray;
+      border-radius: 25px; 
+      width: 375px;
+      margin: 0 auto;
+  }
+  
+  
+  
+  h1{
+      color:lavenderblush;
+  }
+  
+  h2{
+      color:lavenderblush;
+  }
+  
+  h3{
+      color:lavenderblush;
+  }
+  
+  button{
+      font-size: 25px;
+      color: black
+  }
+  
